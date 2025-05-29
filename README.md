@@ -63,7 +63,7 @@ This Power BI dashboard project provides a comprehensive analysis of the Indian 
 
 ## 📬 Contact
 
-For questions or feedback, reach out to me via GitHub issues or email at [your-email@example.com].
+For questions or feedback, reach out to me via GitHub issues or email at nirajgiri720@gmail.com.
 
 ---
 
