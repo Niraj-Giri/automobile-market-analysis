@@ -2,7 +2,7 @@
 
 This Power BI dashboard project provides a comprehensive analysis of the Indian automobile market based on key metrics such as fuel type, body type, power, torque, and manufacturer performance. The analysis offers insights into customer preferences and market trends using rich interactive visuals.
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
